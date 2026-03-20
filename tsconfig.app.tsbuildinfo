@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/formmodal/formmodal.tsx","./src/components/search/search.tsx","./src/components/table/table.tsx","./src/hooks/usedebounce.ts","./src/hooks/usefilter.ts","./src/store/table.ts","./src/types/index.ts","./src/utils/formatdate.ts"],"version":"5.9.3"}
