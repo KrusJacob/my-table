@@ -10,8 +10,8 @@
 * 🔍 Search across all table fields (with debounce)
 * ↕️ Sorting for all columns (type-aware)
 * 🎨 Clean UI using Ant Design components
-* ⚡ Optimized rendering with hooks (useMemo, useCallback)
- *🔎 Global state management (Zustand)
+* ⚡ Optimized rendering with hooks (useMemo)
+* 🔎 Global state management (Zustand)
 
  ## Tech Stack:
    * React
