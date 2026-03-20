@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(90deg, #393c49 0%, #575252 99%, #4b5152 100%);
+}
+
+.ant-table-tbody > tr {
+  transition: all 0.25s ease;
+}
+
+.ant-table-tbody > tr:hover {
+  transform: translateX(2px);
+}
+
+.ant-table-tbody > tr {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
