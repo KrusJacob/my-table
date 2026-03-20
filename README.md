@@ -1,6 +1,6 @@
-📊 # Table App
+ # Table App
 
-🚀 ## Features
+ ## Features
 
 📋 Display data in a table with columns:
     * Name 
@@ -17,7 +17,7 @@
 ⚡ Optimized rendering with hooks (useMemo, useCallback)
 🔎 Global state management (Zustand)
 
-🛠️ ## Tech Stack:
+ ## Tech Stack:
     * React
     * TypeScript
     * Ant Design
@@ -25,7 +25,7 @@
     * Day.js (date handling)
     * Vite (build tool)
 
-📦 ## Installation
+ ## Installation
 ```bash
 git clone <your-repo-url>
 cd <project-folder>
